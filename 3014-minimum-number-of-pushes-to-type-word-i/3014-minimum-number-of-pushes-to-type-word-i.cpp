@@ -7,11 +7,12 @@ public:
         q=s/8;
         r=s%8;
         int i=1;
-        for(;i<=q;i++)
-        {
-            cost+=i*8;
-        }
-        cost+=i*r;
+        cost=(q*(q+1))*4+(q+1)*r;
+        // for(;i<=q;i++)
+        // {
+        //     cost+=i*8;
+        // }
+        // cost+=(q+1)*r;
         return cost;
 
     }
