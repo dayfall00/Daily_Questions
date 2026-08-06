@@ -11,20 +11,22 @@ public:
        st.push('a');
        for(auto x: s)
        {
-        if(x==b & st.top()==a)
+        if(x==a||x==c||x==e)
+            st.push(x);
+        else if(x==b && st.top()==a)
         {
             st.pop();
         }
-        else if(x==d & st.top()==c)
+        else if(x==d && st.top()==c)
         {
             st.pop();
         }
-        else if(x==f & st.top()==e)
+        else if(x==f && st.top()==e)
         {
             st.pop();
         }
         else{
-            st.push(x);
+            return false;
         }
 
             
