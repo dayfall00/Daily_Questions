@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dayfall00/Daily_Questions/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [1484-group-sold-products-by-the-date](https://github.com/dayfall00/Daily_Questions/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
