@@ -71,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-group-sold-products-by-the-date](https://github.com/dayfall00/Daily_Questions/tree/master/1484-group-sold-products-by-the-date) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/dayfall00/Daily_Questions/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
