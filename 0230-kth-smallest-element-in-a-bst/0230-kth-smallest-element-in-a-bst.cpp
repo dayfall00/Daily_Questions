@@ -9,7 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
+class Solution1 {
 private:
 vector<int>sp;
 void inorder(TreeNode * root){
@@ -26,3 +26,25 @@ public:
         return sp[k-1];
     }
 };
+class Solution {
+private:
+int count=0,result;
+void inorder(TreeNode * root, int k){
+    if(!root){ return;}
+
+    inorder(root->left,k);
+    count ++;
+    if(count == k)
+    {
+        result = root->val;
+    }
+    inorder(root->right,k);
+    
+}
+public:
+    int kthSmallest(TreeNode* root, int k) {
+        inorder(root,k);
+        return result;
+    }
+};
+
