@@ -13,4 +13,4 @@ class Solution:
         if(dele== len(nums)):
             return -1
         
-        return dele
+        #return dele
