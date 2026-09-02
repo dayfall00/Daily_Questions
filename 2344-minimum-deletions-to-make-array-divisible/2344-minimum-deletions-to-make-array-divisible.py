@@ -1,10 +1,10 @@
 class Solution:
     def minOperations(self, nums: List[int], numsDivide: List[int]) -> int:
         result= reduce(math.gcd,numsDivide)
-        stnums=nums[::]
-        stnums.sort()
+        #stnums=nums[::]
+        nums.sort()
         dele=0
-        for i in stnums:
+        for i in nums:
             if(result % i==0):
                 return dele
             else:
