@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
         // base step
@@ -22,5 +22,33 @@ public:
         return powerset;
     
 
+    }
+};
+
+// backtracking
+
+class Solution {
+public:
+    vector<vector<int>> subsets(vector<int>& nums) {
+         vector<int>partialsubset;
+          vector<vector<int>>powerset ;
+          int i=0;
+          dfs(nums, i, partialsubset, powerset);
+          return powerset;
+    }
+private:
+    void dfs( vector<int>& nums, int i, vector<int>& partialsubset,  vector<vector<int>>& powerset)
+    {
+        if(i== nums.size()) powerset.push_back(partialsubset);
+        else{
+            // without nums[i]
+            dfs(nums, i+1, partialsubset, powerset);
+
+            // with nums[i]
+            partialsubset.push_back(nums[i]);
+            dfs(nums, i+1, partialsubset, powerset);
+            partialsubset.pop_back();
+
+        }
     }
 };
