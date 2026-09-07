@@ -12,7 +12,7 @@
 class Solution {
 private:
 vector<vector<int>> res;
-void sum(TreeNode* root, int targetSum,int cs, vector<int> result){
+void sum(TreeNode* root, int targetSum,int cs, vector<int>& result){
         if (root == NULL) {
             return ;
         }
@@ -22,11 +22,13 @@ void sum(TreeNode* root, int targetSum,int cs, vector<int> result){
             if(cs == targetSum){
             res.push_back(result);
 
-            return;
+            // return;
         }
         }
+        else{
         sum(root->left,targetSum,cs,result);
         sum(root->right,targetSum,cs,result);
+        }
         result.pop_back();
         
         
