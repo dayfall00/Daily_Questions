@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dayfall00/Daily_Questions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/dayfall00/Daily_Questions/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/dayfall00/Daily_Questions/tree/master/0206-reverse-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/dayfall00/Daily_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/dayfall00/Daily_Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
