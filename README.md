@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dayfall00/Daily_Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dayfall00/Daily_Questions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/dayfall00/Daily_Questions/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dayfall00/Daily_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dayfall00/Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/dayfall00/Daily_Questions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/dayfall00/Daily_Questions/tree/master/0141-linked-list-cycle) |
+| [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dayfall00/Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/dayfall00/Daily_Questions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/dayfall00/Daily_Questions/tree/master/0147-insertion-sort-list) |
+| [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dayfall00/Daily_Questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dayfall00/Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/dayfall00/Daily_Questions/tree/master/3731-find-missing-elements) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/dayfall00/Daily_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0090-subsets-ii) |
+| [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
