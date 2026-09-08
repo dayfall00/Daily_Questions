@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dayfall00/Daily_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dayfall00/Daily_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dayfall00/Daily_Questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3731-find-missing-elements](https://github.com/dayfall00/Daily_Questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dayfall00/Daily_Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dayfall00/Daily_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dayfall00/Daily_Questions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/dayfall00/Daily_Questions/tree/master/0141-linked-list-cycle) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dayfall00/Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/dayfall00/Daily_Questions/tree/master/3731-find-missing-elements) |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/dayfall00/Daily_Questions/tree/master/0147-insertion-sort-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dayfall00/Daily_Questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dayfall00/Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dayfall00/Daily_Questions/tree/master/0141-linked-list-cycle) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
