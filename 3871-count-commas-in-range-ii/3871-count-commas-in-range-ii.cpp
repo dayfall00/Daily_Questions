@@ -5,10 +5,9 @@ public:
 
         p = 1000;
 
-        for(int i = 0; i < 6; i++) {
+        for(int i = 1; i < 6; i++) {
             count += max(0LL, n - p + 1);
 
-            if (p <= LLONG_MAX / 1000)
                 p *= 1000LL;
         }
 
