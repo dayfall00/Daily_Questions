@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dayfall00/Daily_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0303-range-sum-query-immutable](https://github.com/dayfall00/Daily_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dayfall00/Daily_Questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3731-find-missing-elements](https://github.com/dayfall00/Daily_Questions/tree/master/3731-find-missing-elements) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/dayfall00/Daily_Questions/tree/master/0303-range-sum-query-immutable) |
 | [3903-smallest-stable-index-i](https://github.com/dayfall00/Daily_Questions/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/dayfall00/Daily_Questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
