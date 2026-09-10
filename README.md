@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/dayfall00/Daily_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dayfall00/Daily_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dayfall00/Daily_Questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dayfall00/Daily_Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0113-path-sum-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dayfall00/Daily_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dayfall00/Daily_Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0113-path-sum-ii) |
@@ -243,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/dayfall00/Daily_Questions/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
