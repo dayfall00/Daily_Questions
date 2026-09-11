@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dayfall00/Daily_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/dayfall00/Daily_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2094-finding-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dayfall00/Daily_Questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/dayfall00/Daily_Questions/tree/master/3731-find-missing-elements) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dayfall00/Daily_Questions/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
+| [2094-finding-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dayfall00/Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/dayfall00/Daily_Questions/tree/master/3731-find-missing-elements) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/dayfall00/Daily_Questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2094-finding-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dayfall00/Daily_Questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dayfall00/Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/dayfall00/Daily_Questions/tree/master/3731-find-missing-elements) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dayfall00/Daily_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/dayfall00/Daily_Questions/tree/master/0206-reverse-linked-list) |
+| [2094-finding-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
