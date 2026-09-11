@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dayfall00/Daily_Questions/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/dayfall00/Daily_Questions/tree/master/0231-power-of-two) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dayfall00/Daily_Questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dayfall00/Daily_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dayfall00/Daily_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/dayfall00/Daily_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/dayfall00/Daily_Questions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
 ## Breadth-First Search
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/dayfall00/Daily_Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/dayfall00/Daily_Questions/tree/master/0231-power-of-two) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
