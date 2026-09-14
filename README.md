@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dayfall00/Daily_Questions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/dayfall00/Daily_Questions/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
+| [1745-palindrome-partitioning-iv](https://github.com/dayfall00/Daily_Questions/tree/master/1745-palindrome-partitioning-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dayfall00/Daily_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dayfall00/Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/dayfall00/Daily_Questions/tree/master/0022-generate-parentheses) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/dayfall00/Daily_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1745-palindrome-partitioning-iv](https://github.com/dayfall00/Daily_Questions/tree/master/1745-palindrome-partitioning-iv) |
 ## DP on Trees
 |  |
 | ------- |
