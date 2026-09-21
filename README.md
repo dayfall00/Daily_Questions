@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dayfall00/Daily_Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dayfall00/Daily_Questions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/dayfall00/Daily_Questions/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/dayfall00/Daily_Questions/tree/master/0131-palindrome-partitioning) |
 | [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
 | [1745-palindrome-partitioning-iv](https://github.com/dayfall00/Daily_Questions/tree/master/1745-palindrome-partitioning-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dayfall00/Daily_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dayfall00/Daily_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/dayfall00/Daily_Questions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dayfall00/Daily_Questions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/dayfall00/Daily_Questions/tree/master/0131-palindrome-partitioning) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/dayfall00/Daily_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1745-palindrome-partitioning-iv](https://github.com/dayfall00/Daily_Questions/tree/master/1745-palindrome-partitioning-iv) |
 ## DP on Trees
