@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dayfall00/Daily_Questions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/dayfall00/Daily_Questions/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/dayfall00/Daily_Questions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0140-word-break-ii) |
 | [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
 | [1745-palindrome-partitioning-iv](https://github.com/dayfall00/Daily_Questions/tree/master/1745-palindrome-partitioning-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dayfall00/Daily_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dayfall00/Daily_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0140-word-break-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dayfall00/Daily_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/dayfall00/Daily_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dayfall00/Daily_Questions/tree/master/0013-roman-to-integer) |
+| [0140-word-break-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/dayfall00/Daily_Questions/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/dayfall00/Daily_Questions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0140-word-break-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/dayfall00/Daily_Questions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/dayfall00/Daily_Questions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0140-word-break-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/dayfall00/Daily_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1745-palindrome-partitioning-iv](https://github.com/dayfall00/Daily_Questions/tree/master/1745-palindrome-partitioning-iv) |
 ## DP on Trees
@@ -293,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/dayfall00/Daily_Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dayfall00/Daily_Questions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
