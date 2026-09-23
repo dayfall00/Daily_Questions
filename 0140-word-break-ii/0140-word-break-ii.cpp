@@ -1,0 +1,28 @@
+//BAcktracking 
+//o(n)
+class Solution {
+public:
+    vector<string> wordBreak(string s, vector<string>& wd) {
+        unordered_set <string> dict(wd.begin(), wd.end());
+        vector<string> all;
+        string par;
+        int i =0;
+        dfs(s,dict,i,par,all);
+        return all;
+    }
+    private:
+    void dfs(string& s, unordered_set<string> & dict, int i, string par, vector<string> & all){
+        if(i == s.size()) all.push_back(par);
+        else{
+            for(int j=i;j<s.size();j++){
+                string word= s.substr(i,j-i+1);
+                if(dict.find(word) != dict.end()){
+                    string par2=par;
+                    if(!par.empty()) par2 +=  " ";
+                    par2 +=word;
+                    dfs(s,dict,j+1,par2,all);
+                }
+            }
+        }
+    }
+};
