@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/dayfall00/Daily_Questions/tree/master/1661-average-time-of-process-per-machine) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/dayfall00/Daily_Questions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dayfall00/Daily_Questions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/dayfall00/Daily_Questions/tree/master/1873-calculate-special-bonus) |
 ## Tree
 |  |
 | ------- |
