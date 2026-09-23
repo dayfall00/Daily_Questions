@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/dayfall00/Daily_Questions/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dayfall00/Daily_Questions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/dayfall00/Daily_Questions/tree/master/1661-average-time-of-process-per-machine) |
+| [1667-fix-names-in-a-table](https://github.com/dayfall00/Daily_Questions/tree/master/1667-fix-names-in-a-table) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/dayfall00/Daily_Questions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dayfall00/Daily_Questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/dayfall00/Daily_Questions/tree/master/1873-calculate-special-bonus) |
