@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dayfall00/Daily_Questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dayfall00/Daily_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dayfall00/Daily_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dayfall00/Daily_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/dayfall00/Daily_Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/dayfall00/Daily_Questions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dayfall00/Daily_Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dayfall00/Daily_Questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dayfall00/Daily_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/dayfall00/Daily_Questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dayfall00/Daily_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dayfall00/Daily_Questions/tree/master/3876-construct-uniform-parity-array-ii) |
