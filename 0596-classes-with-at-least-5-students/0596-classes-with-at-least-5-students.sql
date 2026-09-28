@@ -1,10 +1,4 @@
 # Write your MySQL query statement below
-with students_per_class as
-(
-    select class,
-    count(student) as std_count
-    from Courses
-    group by class
-)
-select class from students_per_class
-where std_count>=5;
+select class from courses 
+group by class
+having count(student)>=5
