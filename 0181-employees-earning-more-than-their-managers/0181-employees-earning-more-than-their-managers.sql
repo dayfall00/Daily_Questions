@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-select e1.name as employee from Employee e1
-left join employee e2 on
-e1.managerId=e2.id
-where e1.salary>e2.salary
+select majdoor.name as employee from Employee majdoor
+left join employee malik on
+majdoor.managerId=malik.id
+where majdoor.salary>malik.salary
