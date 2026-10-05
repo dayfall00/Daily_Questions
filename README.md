@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0140-word-break-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dayfall00/Daily_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/dayfall00/Daily_Questions/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/dayfall00/Daily_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/dayfall00/Daily_Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/dayfall00/Daily_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/dayfall00/Daily_Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dayfall00/Daily_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dayfall00/Daily_Questions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/dayfall00/Daily_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/dayfall00/Daily_Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dayfall00/Daily_Questions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dayfall00/Daily_Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -316,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0140-word-break-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/dayfall00/Daily_Questions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/dayfall00/Daily_Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
