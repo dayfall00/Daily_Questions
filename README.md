@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/dayfall00/Daily_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/dayfall00/Daily_Questions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0994-rotting-oranges](https://github.com/dayfall00/Daily_Questions/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/dayfall00/Daily_Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dayfall00/Daily_Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/dayfall00/Daily_Questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/dayfall00/Daily_Questions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dayfall00/Daily_Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dayfall00/Daily_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/dayfall00/Daily_Questions/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/dayfall00/Daily_Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Prefix Sum
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dayfall00/Daily_Questions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/dayfall00/Daily_Questions/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/dayfall00/Daily_Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Knapsack Problem
 |  |
