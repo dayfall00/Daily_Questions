@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0140-word-break-ii) |
 | [0389-find-the-difference](https://github.com/dayfall00/Daily_Questions/tree/master/0389-find-the-difference) |
 | [0856-score-of-parentheses](https://github.com/dayfall00/Daily_Questions/tree/master/0856-score-of-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/dayfall00/Daily_Questions/tree/master/1143-longest-common-subsequence) |
 | [1745-palindrome-partitioning-iv](https://github.com/dayfall00/Daily_Questions/tree/master/1745-palindrome-partitioning-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dayfall00/Daily_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dayfall00/Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/dayfall00/Daily_Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/dayfall00/Daily_Questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/dayfall00/Daily_Questions/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/dayfall00/Daily_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1745-palindrome-partitioning-iv](https://github.com/dayfall00/Daily_Questions/tree/master/1745-palindrome-partitioning-iv) |
 ## DP on Trees
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/dayfall00/Daily_Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/dayfall00/Daily_Questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/dayfall00/Daily_Questions/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/dayfall00/Daily_Questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
